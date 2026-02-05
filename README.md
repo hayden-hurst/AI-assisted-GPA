@@ -17,6 +17,4 @@ Built with Java, Spring Boot, Python (ML), and React.js.
 - **Profiles**
 - **Leaderboards**
 - **Autosave recordings from session** - Option to toggle autosaving functionality, Ability to display recordings on profile (keep private or show publicly). This would allow users to look back at previous recordings and analyze progress
-- **Livestreams**
-
 ---
